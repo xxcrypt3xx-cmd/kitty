@@ -1,0 +1,7 @@
+@import url('font url here');
+
+body {
+  background: url('https://iili.io/KZCyOes.jpg') no-repeat center center fixed;
+  color: #000000 !important;
+  background-size: cover;
+  font-family: 'font name here'
