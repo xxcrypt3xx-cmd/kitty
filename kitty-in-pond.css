@@ -228,7 +228,7 @@ th {
 }
 
 td {
-  background: #3B4C3F !important;
+  background: rgba(59, 76, 63, 0.5) !important;
   color: #E1D5BC !important;
   border: 1px solid #95A487 !important;
   text-align: center !important;
@@ -397,7 +397,7 @@ select:focus {
   box-shadow: none !important;
 }
 
-.progress {
+div.progress {
   background: #657939 !important;
   border: 1px solid #657939 !important;
   border-radius: 15px !important;
@@ -435,7 +435,7 @@ img[src$="gold.png"] {
   width: 20px !important;
 }
 
-#commentBox {
+div#commentBox {
   border: 1px solid #95A487 !important;
   border-radius: 15px !important;
   height: 200px !important;
