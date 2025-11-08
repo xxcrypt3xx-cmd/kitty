@@ -100,6 +100,8 @@ div.container.main {
 
 .mound-grid>img {
   content: url('https://iili.io/KDUBBvS.jpg') !important;
+  height: 100% !important;
+  width: 100% !important;
 }
 
 .mound-grid:hover {
@@ -242,20 +244,20 @@ td {
 }
 
 a:link {
-  color: #657937 !important;
+  color: #95A487 !important;
 }
 
 a:visited { 
-  color: #657937 !important;
+  color: #95A487 !important;
 }
 
 a:hover {
-  color: #9FB865 !important;
+  color: #95A487 !important;
   transition: 0.8s !important;
 }
 
 .topbar a:link {
-  color: #9FB865 !important;
+  color: #95A487 !important;
 }
 
 .alert-danger {
