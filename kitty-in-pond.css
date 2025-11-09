@@ -132,12 +132,6 @@ div.container.main {
 }
 
 .panel {
-  background: #3B4C3F !important;
-  color: #E1D5BC !important;
-  border: none !important;
-}
-
-.panel {
     background: #3B4C3F !important;
     border: 1px solid #95A487 !important;
     border-radius: 15px !important;
@@ -228,7 +222,7 @@ th {
 }
 
 td {
-  background: rgba(59, 76, 63, 0.5) !important;
+  background: none !important;
   color: #E1D5BC !important;
   border: 1px solid #95A487 !important;
   text-align: center !important;
@@ -397,14 +391,15 @@ select:focus {
   box-shadow: none !important;
 }
 
+/*progress bars*/
+.progress div {
+    color: #E1D5BC !important;
+}
+
 .progress {
     background: #3B4C3F !important;
     border: 1px solid #FFFFFF !important;
     border-radius: 15px; !important;
-}
-
-.progress div {
-    color: #E1D5BC !important;
 }
 
 .progress-bar {
@@ -436,11 +431,11 @@ img[src$="gold.png"] {
 }
 
 #commentBox {
+  background: none !important;
+  color: #E1D5BC !important;
   border: 1px solid #95A487 !important;
   border-radius: 15px !important;
   height: 200px !important;
-  background: #3B4C3F !important;
-  color: #E1D5BC !important;
   box-shadow: none !important;
 }
 
