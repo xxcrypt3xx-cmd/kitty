@@ -83,7 +83,7 @@ div.container.main {
 }
 
 .cave-grid>img {
-  content: url('https://iili.io/KDUfvRt.jpg') !important;
+  content: url('https://iili.io/KbA46iB.jpg') !important;
 }
 
 .cave-grid:hover {
@@ -397,30 +397,30 @@ select:focus {
   box-shadow: none !important;
 }
 
-div.progress {
-  background: #657939 !important;
-  border: 1px solid #657939 !important;
-  border-radius: 15px !important;
+.progress {
+    background: #3B4C3F !important;
+    border: 1px solid #FFFFFF !important;
+    border-radius: 15px; !important;
 }
 
-.provress div {
-  color: #E1D5BC !important;
+.progress div {
+    color: #E1D5BC !important;
 }
 
 .progress-bar {
-  background: #9FB865 !important;
+    background: #95A487 !important;
 }
 
 .progress-bar-warning {
-  background: #9FB865 !important;
+    background: #95A487 !important;
 }
 
 .progress-bar-danger {
-  background: #9FB865 !important;
+    background: #95A487 !important;
 }
 
 .progress-bar-success {
-  background: #9FB865 !important;
+    background: #95A487 !important;
 }
 
 /*SB icon*/
@@ -435,7 +435,7 @@ img[src$="gold.png"] {
   width: 20px !important;
 }
 
-div#commentBox {
+#commentBox {
   border: 1px solid #95A487 !important;
   border-radius: 15px !important;
   height: 200px !important;
@@ -444,9 +444,3 @@ div#commentBox {
   box-shadow: none !important;
 }
 
-.commentBox {
-  height: 36px !important;
-  width: 837px !important;
-  overflow: hidden !important;
-  margin-bottom: 10px !important;
-}
