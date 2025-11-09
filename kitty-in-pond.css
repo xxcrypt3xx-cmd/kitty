@@ -391,32 +391,31 @@ select:focus {
   box-shadow: none !important;
 }
 
-/*progress bars*/
-.progress div {
-    color: #E1D5BC !important;
-}
-
 .progress {
     background: #3B4C3F !important;
     border: 1px solid #FFFFFF !important;
-    border-radius: 15px; !important;
-}
+    border-radius: 15px !important;
+    }
+
+.progress div {
+    color: #E1D5BC !important;
+    }
 
 .progress-bar {
     background: #95A487 !important;
-}
+    }
 
 .progress-bar-warning {
     background: #95A487 !important;
-}
+    }
 
 .progress-bar-danger {
     background: #95A487 !important;
-}
+    }
 
 .progress-bar-success {
     background: #95A487 !important;
-}
+    }
 
 /*SB icon*/
 img[src$="silver.png"] {
