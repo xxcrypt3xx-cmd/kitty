@@ -83,43 +83,43 @@ border-radius: 15px !important;
 box-shadow: none !important;
 }
 
-.s-chat-message-nth:child(even) {
-background: #3B4C3F !important;
-color: #95A487 !important;
-border: 1px solid #95A487 !important;
+.s-chat-message:nth-child(even) {
+    background: #3B4C3F !important;
+    color: #95A487 !important;
+    border: 1px dashed #95A487 !important;
 }
 
-.s-chat-message-nth:child(odd) {
-background: #3B4C3F !important;
-color: #E1D5BC !important;
-border: 1px solid #95A487 !important;
+.s-chat-message:nth-child(odd) {
+    background: #3B4C3F !important;
+    color: #E1D5BC !important;
+    border: 1px dashed #95A487 !important;
 }
 
 .s-chat-message_timestamp {
-color: #95A487 !important;
-}
-
-.s-chat-message_content {
-background: none !important;
-color: #95A487 !important;
-border: none !important;
+    color: #95A487 !important;
 }
 
 #chatMessageContainer {
-color: #95A487 !important;
-border: none !important;
+    color: #95A487 !important;
+    border: none !important;
 }
 
 button#label_currentChannel {
-background: #3B4C3F !important;
-color: #95A487 !important;
-border: none !important;
+    background: #3B4C3F !important;
+    color: #95A487 !important;
+    border: none !important;
 }
 
-#chatMessagePinned {
-background: #3B4C3F !important;
-color: #95A487 !important;
-border: none !important;
+.s-chat-message_content {
+    background: none !important;
+    color: #95A487 !important;
+    border: none !important;
+}
+
+div#chatMessagePinned {
+    background: #3B4C3F !important;
+    color: #95A487 !important;
+    border: 1px solid #95A487 !important;
 }
 
 h1 {
