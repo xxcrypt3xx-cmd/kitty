@@ -189,6 +189,106 @@ border-radius: 15px !important;
 text-align: center !important;
 }
 
+input[type="button"] {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="submit"] {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="text"] {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"] {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="button"]:hover {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: 0 0 5px #95A487, 0 0 10px #95A487, 0 0 20px #95A487 !important;
+transition: 0.8s !important;
+box-shadow: none !important;
+}
+
+input[type="text]:focus {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+input[type="password"]:focus {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+textarea:focus {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
+select:focus {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+text-shadow: none !important;
+box-shadow: none !important;
+}
+
 .progress {
 background: #3B4C3F !important;
 border: none !important;
