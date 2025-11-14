@@ -430,10 +430,9 @@ img[src$="gold.png"] {
 }
 
 #commentBox {
-  background: none !important;
+  background: rgba(48, 70, 54, 0.5) !important;
   color: #E1D5BC !important;
   border: 1px solid #95A487 !important;
   border-radius: 15px !important;
-  height: 200px !important;
   box-shadow: none !important;
 }
