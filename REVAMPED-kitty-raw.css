@@ -1,0 +1,219 @@
+@import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa:wght@400;700&family=Bitcount+Grid+Single:wght@100..900&display=swap');
+
+body {
+background: url('https://iili.io/KZCyOes.jpg') no-repeat center center fixed !important;
+color: none !important;
+background-size: cover !important;
+}
+
+.col-md-9.xs-12 {
+background: none !important;
+border: 4px double #95A487 !important;
+border-top: none !important;
+border-right: none !important;
+border-bottom: none !important;
+}
+
+div.container.main {
+background: rgba(48, 70, 54, 0.5) !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+}
+
+.navbar {
+background: #3B4C3F !important;
+border: 1px solid #95A487 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+font-family: 'Aref Ruqaa';
+}
+
+navbar li a {
+color: #95A487 !important;
+}
+
+.navbar li a:hover {
+background: none !important;
+color: #E1D5BC !important;
+border: 0 0 10px #95A487, 0 0 20px #95A487, 0 0 40px #95A487;
+text-shadow: 0 0 5px #95A487, 0 0 10px #95A487, 0 0 20px #95A487;
+transition: 0.8s !important;
+}
+
+.navbar-header > a > img {
+content: url('_____') !important;
+width: 100px;
+}
+
+.breadcrumb {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+}
+
+.feature {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+}
+
+.topbar {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: none !important;
+border-top: none !important;
+border-bottom: 4px solid #95A487 !important;
+}
+
+.sidebar {
+background: none !important;
+color: #95A487 !important;
+border: none !important;
+}
+
+.panel {
+background: #3B4C3F !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+}
+
+.s-chat-message-nth:child(even) {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+}
+
+.s-chat-message-nth:child(odd) {
+background: #3B4C3F !important;
+color: #E1D5BC !important;
+border: 1px solid #95A487 !important;
+}
+
+.s-chat-message_timestamp {
+color: #95A487 !important;
+}
+
+.s-chat-message_content {
+background: none !important;
+color: #95A487 !important;
+border: none !important;
+}
+
+#chatMessageContainer {
+color: #95A487 !important;
+border: none !important;
+}
+
+button#label_currentChannel {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: none !important;
+}
+
+#chatMessagePinned {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: none !important;
+}
+
+h1 {
+text-align: left !important;
+color: #95A487 !important;
+font-family: 'Aref Ruqaa';
+}
+
+h3 {
+text-align: center !important;
+color: #95A487 !important;
+font-family: 'Aref Ruqaa';
+}
+
+.top, th, .bottom, .left, td, .right_cub {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+font-family: 'Aref Ruqaa';
+}
+
+.cave-grid, .mound-grid {
+background: rgba(48, 70, 54, 0.5) !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+}
+
+.cave-grid:hover, .mound-grid:hover {
+text-shadow: 0 0 5px #95A487, 0 0 10px #95A487, 0 0 20px #95A487 !important;
+transition: 0.8s !important;
+}
+
+div.cave-grid>img {
+content: url('https://iili.io/KbA46iB.jpg') !important;
+}
+
+div.mound-grid>img {
+content: url('https://iili.io/KDUBBvS.jpg') !important;
+}
+
+a:link, a:visited {
+color: #95A487 !important;
+}
+
+a:hover {
+color: #95A487 !important;
+text-shadow: 0 0 5px #95A487, 0 0 10px #95A487, 0 0 20px #95A487 !important;
+transition: 0.8s !important;
+}
+
+topbar a:link {
+color: #95A487 !important;
+transition: 0.8s !important;
+}
+
+.alert-danger, .alert-success, .attack-won, .attack-lost {
+background: #3B4C3F !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+text-align: center !important;
+}
+
+.progress {
+background: #3B4C3F !important;
+border: none !important;
+}
+
+.progress div {
+color: #E1D5BC !important;
+}
+
+.progress-bar {
+background: #95A487 !important;
+}
+
+.progress-bar-warning {
+background: #95A487 !important;
+}
+
+.progress-bar-danger {
+background: #95A487 !important;
+}
+
+.progress-bar-success {
+background: #95A487 !important;
+}
+
+#commentBox {
+background: rgba(48, 70, 54, 0.5) !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+border-radius: 15px !important;
+box-shadow: none !important;
+}
