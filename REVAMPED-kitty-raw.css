@@ -6,7 +6,7 @@ color: none !important;
 background-size: cover !important;
 }
 
-.col-md-9.xs-12 {
+.col-md-9.col-xs-12 {
 background: none !important;
 border: 4px double #95A487 !important;
 border-top: none !important;
@@ -156,10 +156,14 @@ transition: 0.8s !important;
 
 div.cave-grid>img {
 content: url('https://iili.io/KbA46iB.jpg') !important;
+width: 100% !important;
+height: 100% !important;
 }
 
 div.mound-grid>img {
 content: url('https://iili.io/KDUBBvS.jpg') !important;
+width: 100% !important;
+height: 100% !important;
 }
 
 a:link, a:visited {
