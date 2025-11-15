@@ -55,6 +55,15 @@ border: 1px solid #95A487 !important;
 border-radius: 15px !important;
 }
 
+
+.breadcrumb::after {
+content: "CSS by Blub-Blub (#519615)";
+position: absolute;
+right: 20%;
+z-index: 100;
+color: #95A487;
+}
+
 .feature {
 background: #3B4C3F !important;
 color: #95A487 !important;
@@ -70,7 +79,7 @@ border-top: none !important;
 border-bottom: 4px solid #95A487 !important;
 }
 
-.sidebar {
+.sidebar, .table {
 background: none !important;
 color: #95A487 !important;
 border: none !important;
