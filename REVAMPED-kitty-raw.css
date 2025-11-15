@@ -300,34 +300,34 @@ box-shadow: none !important;
 }
 
 .progress {
-    background: #3B4C3F !important;
-    border: 1px solid #FFFFFF !important;
-    border-radius: 15px; !important;
+background: #________ !important;
+border: 1px solid #________ !important;
+border-radius: 15px !important;
 }
 
 .progress div {
-    color: #E1D5BC !important;
+color: #________ !important;
 }
 
 .progress-bar {
-    background: #95A487 !important;
+background: #______ !important;
 }
 
 .progress-bar-warning {
-    background: #95A487 !important;
+background: #_______ !important;
 }
 
 .progress-bar-danger {
-    background: #95A487 !important;
+background: #_______ !important;
 }
 
 .progress-bar-success {
-    background: #95A487 !important;
+background: #_______ !important;
 }
 
 #commentBox {
 background: rgba(48, 70, 54, 0.5) !important;
-color: #95A487 !important;
+color: #4 !important;
 border: 1px solid #95A487 !important;
 border-radius: 15px !important;
 box-shadow: none !important;
