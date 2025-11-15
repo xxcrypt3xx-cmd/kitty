@@ -300,29 +300,29 @@ box-shadow: none !important;
 }
 
 .progress {
-background: #________ !important;
-border: 1px solid #________ !important;
+background: #3b4c3f !important;
+border: 1px solid #95A487 !important;
 border-radius: 15px !important;
 }
 
 .progress div {
-color: #________ !important;
+color: #e1d5bc !important;
 }
 
 .progress-bar {
-background: #______ !important;
+background: #95a487 !important;
 }
 
 .progress-bar-warning {
-background: #_______ !important;
+background: #95a487 !important;
 }
 
 .progress-bar-danger {
-background: #_______ !important;
+background: #95a487 !important;
 }
 
 .progress-bar-success {
-background: #_______ !important;
+background: #95a487 !important;
 }
 
 #commentBox {
