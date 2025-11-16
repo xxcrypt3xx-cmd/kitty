@@ -195,6 +195,14 @@ text-align: center !important;
 font-family: 'Playfair Display';
 }
 
+td.right_odd {
+background: rgba(59, 76, 63, 0.5) !important;
+color: #95A487 !important;
+border: 1px solid #95A487 !important;
+text-align: center !important;
+font-family: 'Playfair Display';
+}
+
 .cave-grid, .mound-grid {
 background: rgba(59, 76, 63, 0.5) !important;
 color: #95A487 !important;
